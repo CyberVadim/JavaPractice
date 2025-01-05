@@ -1,9 +1,4 @@
-package leetCodeExercises;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+package leetCodeExercises.easy;
 
 /*
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
